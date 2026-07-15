@@ -21,7 +21,7 @@
 ### 🌌 Sanjay Selvakumar
 *Electronics Enthusiast*
 
-* ⚡ **Analog & Digital IC Design**
+* ⚡ **Analog & Digital Design**
 * 🛠️ **Design Verification**
 * 🧠 **Hardware-Efficient AI**
 * 🤖 **Robotics & Controls**
