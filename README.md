@@ -19,7 +19,7 @@
 ```
 
 ### 🌌 Sanjay Selvakumar
-*Electronics Enthusiast | Systems Innovator*
+*Electronics Enthusiast*
 
 * ⚡ **Analog & Digital IC Design**
 * 🛠️ **Design Verification**
