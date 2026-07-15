@@ -1,16 +1,30 @@
-## Hi there 👋
+```text
+             VCC (Inspiration)
+                    │
+              ┌─────┴─────┐
+              │   ┌───┐   │
+   Music ─────┼───┤   ├───┤   <─── PMOS (Creativity Loop)
+   (Rhythm)   │   └───┘   │
+              └─────┬─────┘
+                    │
+                    ├───────────────► Out (Silicon Innovation)
+                    │
+              ┌─────┴─────┐
+              │   ┌───┐   │
+ Circuits ────┼───┤   ├───┤   <─── NMOS (Logic / Controls)
+ (Precision)  │   └───┘   │
+              └─────┬─────┘
+                    │
+             GND (Grounded)
+```
 
-<!--
-**sanjay-181006/sanjay-181006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌌 Sanjay Selvakumar
+*Electronics Enthusiast | Systems Innovator*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚡ **Analog & Digital IC Design**
+* 🛠️ **Design Verification**
+* 🧠 **Hardware-Efficient AI**
+* 🤖 **Robotics & Controls**
+* 🎵 **Music**
+---
+🤝 **Let's Collaborate:** Connect with me on [LinkedIn](https://www.linkedin.com/in/sanjay-selvakumar-55129b293/) or explore my repositories below!
